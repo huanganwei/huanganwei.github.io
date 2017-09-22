@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[hexo + github pages 建站教程]]></title>
-      <url>/2017/09/22/Hello/</url>
-      <content type="html"><![CDATA[<h1 id="hexo-github-pages-建站教程"><a href="#hexo-github-pages-建站教程" class="headerlink" title="hexo + github pages 建站教程"></a>hexo + github pages 建站教程</h1><p>这是我的第一篇文章:)</p>
-]]></content>
-      
-        <categories>
-            
-            <category> 博客建站 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 博客建站 </tag>
-            
-            <tag> hexo </tag>
-            
-            <tag> github pages </tag>
-            
-        </tags>
-        
-    </entry>
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[hexo + github pages 建站教程]]></title>
+    <url>%2F2017%2F09%2F22%2FHello%2F</url>
+    <content type="text"><![CDATA[hexo + github pages 建站教程这是我的第一篇文章:)]]></content>
+      <categories>
+        <category>博客建站</category>
+      </categories>
+      <tags>
+        <tag>博客建站</tag>
+        <tag>hexo</tag>
+        <tag>github pages</tag>
+      </tags>
+  </entry>
 </search>
